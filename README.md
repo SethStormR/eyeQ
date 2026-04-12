@@ -1,3 +1,7 @@
+# News
+eyeQ is coming soon to Gnome DE (in a couple of days).
+eyeQ will be availble for light theme also.
+
 # eyeQ
 
 <img width="1707" height="1067" alt="eyeQ-baner" src="https://github.com/user-attachments/assets/c1417705-0b6e-4020-b54c-eba46e0e26e5" />
