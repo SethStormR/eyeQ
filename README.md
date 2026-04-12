@@ -1,5 +1,6 @@
 # News
 eyeQ is coming soon to Gnome DE (in a couple of days).
+
 eyeQ will be availble for light theme also.
 
 # eyeQ
