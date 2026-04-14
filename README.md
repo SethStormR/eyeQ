@@ -5,7 +5,8 @@ eyeQ will be availble for light theme also.
 
 # eyeQ
 
-<img width="1707" height="1067" alt="eyeQ-baner" src="https://github.com/user-attachments/assets/c1417705-0b6e-4020-b54c-eba46e0e26e5" />
+<img width="1707" height="1067" alt="eyeQ-banner" src="https://github.com/user-attachments/assets/50f4190a-f660-46c1-ad28-1499a6733aef" />
+
 
 Screenshots
 --
