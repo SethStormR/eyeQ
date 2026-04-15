@@ -1,5 +1,5 @@
 # News
-No News at the moment
+Version 3.0 is under development. A circle version of eyeQ will be seen. Also support of XFCE will be added.
 
 # eyeQ
 
