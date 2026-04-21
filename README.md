@@ -1,5 +1,5 @@
 # News
-Version 3.0 is under development. A circle version of eyeQ will be seen. Also support of XFCE will be added.
+I will look into Cosmic DE support, but last time I tried Cismic DE the icon handling was broken.
 
 # eyeQ
 
