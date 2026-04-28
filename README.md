@@ -3,15 +3,19 @@ I will look into Cosmic DE support, but last time I tried Cismic DE the icon han
 
 # eyeQ
 
-<img width="1707" height="1067" alt="eyeQ-banner" src="https://github.com/user-attachments/assets/50f4190a-f660-46c1-ad28-1499a6733aef" />
+<img width="1707" height="1067" alt="0" src="https://github.com/user-attachments/assets/e582fa64-08d4-4a8e-b59d-effe7b6e8aed" />
 
 
 Screenshots
 --
 
-<img width="1920" height="1080" alt="Screenshot from 2026-04-02 12 21 54" src="https://github.com/user-attachments/assets/8344649f-fde0-42e4-b2e5-cceb4b304521" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/cd747be3-75c1-41d0-a457-71f0a9e16d76" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/9281b636-28e1-41aa-919b-500455bffa55" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/12a1d15c-9b96-43af-9ccb-bed1a289bcf9" />
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ffeeac78-1b0a-4ff1-b24b-befdbda3b880" />
+
+
 
 Installation
 --
