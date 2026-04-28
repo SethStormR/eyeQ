@@ -1,5 +1,5 @@
 # News
-I will look into Cosmic DE support, but last time I tried Cismic DE the icon handling was broken.
+I will look into Cosmic DE support, but last time I tried Cosmic DE the icon handling was broken.
 
 # eyeQ
 
