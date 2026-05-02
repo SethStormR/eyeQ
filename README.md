@@ -1,6 +1,5 @@
 # News
-I will look into Cosmic DE support, but last time I tried Cosmic DE the icon handling was broken.
-
+Repository moved to: https://codeberg.org/StormRosenaa/eyeQ
 # eyeQ
 
 <img width="1707" height="1067" alt="0" src="https://github.com/user-attachments/assets/e582fa64-08d4-4a8e-b59d-effe7b6e8aed" />
